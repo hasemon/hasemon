@@ -1,4 +1,4 @@
-[![Repos Badge](https://badges.pufler.dev/repos/hasemon)](https://github.com/hasemon)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/hasemon)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/hasemon)](https://gist.github.com/hasemon)
 [![Gists Badge](https://pageview.vercel.app/?github_user=hasemon)](https://github.com/hasemon)
 
