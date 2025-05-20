@@ -1,3 +1,8 @@
 **Languages and Tools:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasemon)](https://github.com/hasemon/github-readme-stats)
+<a href="https://github.com/hasemon/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hasemon" />
+</a>
+<a href="https://github.com/hasemon/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasemon&layout=compact&langs_count=8&card_width=320" />
+</a>
